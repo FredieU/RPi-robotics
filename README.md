@@ -1,1 +1,3 @@
-Collection of robotics scripts for future RPi project.
+Collection of python scripts for future RPi robotics project.
+
+Hardware:
